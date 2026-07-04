@@ -1,5 +1,7 @@
 # Equitable Oral-Health Assistant — Citation-First Retrieval (RAG)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21193726.svg)](https://doi.org/10.5281/zenodo.21193726) · Author ORCID [0009-0006-1926-653X](https://orcid.org/0009-0006-1926-653X)
+
 닿기 어려운 사람에게 **믿을 수 있는 구강보건 정보**를 쉬운 말로, **항상 출처와 함께** 전달하는
 검색기반(RAG) 질의응답 도구. 정보 접근의 평등(equity)을 목표로 한다.
 

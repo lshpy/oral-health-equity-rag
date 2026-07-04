@@ -30,7 +30,7 @@
 출처 우선·안전 우선의 구강보건 정보 도구가 접근 격차 완화에 기여할 수 있음을 예비적으로 보였다. 향후 권위 KB 확충·다국어·사용자 평가로 확장.
 
 ## Artifacts
-Code: [GitHub URL] · DOI: [Zenodo DOI] · Author ORCID: 0009-0006-1926-653X
+Code: https://github.com/lshpy/oral-health-equity-rag · DOI: [10.5281/zenodo.21193726](https://doi.org/10.5281/zenodo.21193726) · Author ORCID: 0009-0006-1926-653X
 
 ## References
 [1] Reimers & Gurevych, Sentence-BERT. [2] ko-sroberta (jhgan). [3] 구강보건 공개 자료(검증·인용 예정).
