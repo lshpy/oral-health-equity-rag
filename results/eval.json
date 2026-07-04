@@ -1,0 +1,162 @@
+{
+  "n": 14,
+  "k": 3,
+  "precision@1": 0.9285714285714286,
+  "recall@k": 1.0,
+  "rows": [
+    {
+      "q": "충치를 어떻게 예방하나요?",
+      "gold": "caries_prevention",
+      "top": [
+        "caries_prevention",
+        "children_oral",
+        "dry_mouth"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "불소치약이 도움이 되나요?",
+      "gold": "caries_prevention",
+      "top": [
+        "caries_prevention",
+        "dry_mouth",
+        "children_oral"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "칫솔질은 어떻게 해야 하나요?",
+      "gold": "brushing_flossing",
+      "top": [
+        "brushing_flossing",
+        "denture_care",
+        "children_oral"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "치실 꼭 써야 하나요?",
+      "gold": "brushing_flossing",
+      "top": [
+        "brushing_flossing",
+        "when_to_see",
+        "denture_care"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "잇몸에서 피가 나요",
+      "gold": "gum_disease",
+      "top": [
+        "gum_disease",
+        "when_to_see",
+        "dry_mouth"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "잇몸이 붓고 입냄새가 나요",
+      "gold": "gum_disease",
+      "top": [
+        "gum_disease",
+        "when_to_see",
+        "dry_mouth"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "치과 얼마나 자주 가야 하나요?",
+      "gold": "checkup_interval",
+      "top": [
+        "when_to_see",
+        "checkup_interval",
+        "gum_disease"
+      ],
+      "top1": false,
+      "in_topk": true
+    },
+    {
+      "q": "아이 충치 예방 실런트",
+      "gold": "children_oral",
+      "top": [
+        "children_oral",
+        "caries_prevention",
+        "dry_mouth"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "단 간식 자주 먹으면 안 좋나요?",
+      "gold": "diet_caries",
+      "top": [
+        "diet_caries",
+        "dry_mouth",
+        "gum_disease"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "입이 자주 말라요",
+      "gold": "dry_mouth",
+      "top": [
+        "dry_mouth",
+        "diet_caries",
+        "gum_disease"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "틀니 관리 어떻게 하나요?",
+      "gold": "denture_care",
+      "top": [
+        "denture_care",
+        "checkup_interval",
+        "brushing_flossing"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "당뇨랑 잇몸병 관련 있나요?",
+      "gold": "oral_systemic",
+      "top": [
+        "oral_systemic",
+        "gum_disease",
+        "checkup_interval"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "언제 치과에 꼭 가야 하나요?",
+      "gold": "when_to_see",
+      "top": [
+        "when_to_see",
+        "checkup_interval",
+        "gum_disease"
+      ],
+      "top1": true,
+      "in_topk": true
+    },
+    {
+      "q": "돈이 없어 치과 못 가는데 방법 있나요?",
+      "gold": "access_equity",
+      "top": [
+        "access_equity",
+        "when_to_see",
+        "checkup_interval"
+      ],
+      "top1": true,
+      "in_topk": true
+    }
+  ]
+}
